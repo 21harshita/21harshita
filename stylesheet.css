@@ -29,8 +29,8 @@ body{
   margin-right: 15px;
   padding: 20px 40px;
   border-radius: 30px;
-  background-color: pink;
-  color:blue;
+  background-color: #FFD8DB;
+  color:#5243C0;
   font-size: 15px;
 
 
@@ -79,12 +79,12 @@ h1{
 
 #ls-button{
 
-   background-color: blue;
+   background-color: #5243C0;
    color: white;
    margin-left: 200px;
    padding: 10px 30px;
    border-radius: 15px;
-   font-size: 10px;
+   font-size: 20px;
    margin-top: 15px;
 
 
@@ -156,7 +156,7 @@ margin: 0px 15px;
 
 .contact-label:hover{
 
-  background-color: blue;
+  background-color: #5243C0;
   transform: scaleY(1.2);
   transition-property: transform;
   transition-delay: 0.1s;
